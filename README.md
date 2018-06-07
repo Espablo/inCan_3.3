@@ -1,4 +1,4 @@
-# # Board inCan v3.3 by Espablo
+# Board inCan v3.3 by Espablo
 
 GPIO settings:
 
