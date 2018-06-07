@@ -1,3 +1,4 @@
 # inCan v3.3
-![SUPLA Schemat](https://github.com/Espablo/GERBER_SUPLA_V2.1/blob/master/Supla_v2.1_sch.png "Schemat")
-![SUPLA TOP_PCB](https://github.com/Espablo/GERBER_SUPLA_V2.1/blob/master/Supla_v2.1_brd.png "TOP_PCB")
+![SUPLA Schemat](https://github.com/Espablo/inCan_3.3/blob/master/inCan_3.3.png "Schemat")
+![SUPLA TOP_PCB](https://github.com/Espablo/inCan_3.3/blob/master/top.png "TOP_PCB")
+![SUPLA TOP_PCB](https://github.com/Espablo/inCan_3.3/blob/master/bottom.png "TOP_PCB")
