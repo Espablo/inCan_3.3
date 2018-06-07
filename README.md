@@ -1,6 +1,6 @@
 # Board inCan v3.3 by Espablo
 
-Description of the module: https://forum.supla.org/viewtopic.php?f=33&t=2188
+Description of the module: https://forum.supla.org/viewtopic.php?f=33&t=2188<br>
 Connection example: https://github.com/Espablo/inCan_3.3/blob/master/inCan_connection_example.pdf
 
 GPIO settings:
